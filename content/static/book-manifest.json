@@ -1,0 +1,185 @@
+{
+  "title": "FastAPI 완전 정복",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "FastAPI란 무엇인가?",
+      "href": "01-fastapi-introduction/chapter",
+      "part": 1
+    },
+    {
+      "number": 2,
+      "title": "개발 환경 구성",
+      "href": "02-development-environment/chapter",
+      "part": 1
+    },
+    {
+      "number": 3,
+      "title": "첫 번째 REST API 개발",
+      "href": "03-first-rest-api/chapter",
+      "part": 1
+    },
+    {
+      "number": 4,
+      "title": "Pydantic과 데이터 검증",
+      "href": "04-pydantic-validation/chapter",
+      "part": 1
+    },
+    {
+      "number": 5,
+      "title": "ASGI와 Uvicorn의 내부 구조",
+      "href": "05-asgi-uvicorn/chapter",
+      "part": 2
+    },
+    {
+      "number": 6,
+      "title": "Python asyncio와 이벤트 루프",
+      "href": "06-asyncio-event-loop/chapter",
+      "part": 2
+    },
+    {
+      "number": 7,
+      "title": "FastAPI의 동시성 처리",
+      "href": "07-concurrency/chapter",
+      "part": 2
+    },
+    {
+      "number": 8,
+      "title": "의존성 주입과 미들웨어",
+      "href": "08-dependencies-middleware/chapter",
+      "part": 2
+    },
+    {
+      "number": 9,
+      "title": "FastAPI 프로젝트 아키텍처",
+      "href": "09-project-architecture/chapter",
+      "part": 3
+    },
+    {
+      "number": 10,
+      "title": "SQLAlchemy와 ORM",
+      "href": "10-sqlalchemy-orm/chapter",
+      "part": 3
+    },
+    {
+      "number": 11,
+      "title": "비동기 데이터베이스 처리",
+      "href": "11-async-database/chapter",
+      "part": 3
+    },
+    {
+      "number": 12,
+      "title": "Redis와 캐싱 전략",
+      "href": "12-redis-cache/chapter",
+      "part": 3
+    },
+    {
+      "number": 13,
+      "title": "인증과 인가",
+      "href": "13-authentication/chapter",
+      "part": 4
+    },
+    {
+      "number": 14,
+      "title": "예외 처리와 오류 응답",
+      "href": "14-errors/chapter",
+      "part": 4
+    },
+    {
+      "number": 15,
+      "title": "API 보안",
+      "href": "15-api-security/chapter",
+      "part": 4
+    },
+    {
+      "number": 16,
+      "title": "HTTP 클라이언트와 외부 API 연동",
+      "href": "16-http-clients/chapter",
+      "part": 5
+    },
+    {
+      "number": 17,
+      "title": "실시간 통신과 스트리밍",
+      "href": "17-streaming/chapter",
+      "part": 5
+    },
+    {
+      "number": 18,
+      "title": "백그라운드 작업과 메시지 큐",
+      "href": "18-background-jobs/chapter",
+      "part": 5
+    },
+    {
+      "number": 19,
+      "title": "FastAPI 테스트 전략",
+      "href": "19-testing/chapter",
+      "part": 5
+    },
+    {
+      "number": 20,
+      "title": "FastAPI 성능 측정",
+      "href": "20-performance-measurement/chapter",
+      "part": 6
+    },
+    {
+      "number": 21,
+      "title": "FastAPI 성능 최적화",
+      "href": "21-optimization/chapter",
+      "part": 6
+    },
+    {
+      "number": 22,
+      "title": "Docker와 배포 아키텍처",
+      "href": "22-docker-deployment/chapter",
+      "part": 6
+    },
+    {
+      "number": 23,
+      "title": "로깅과 모니터링",
+      "href": "23-observability/chapter",
+      "part": 6
+    },
+    {
+      "number": 24,
+      "title": "운영 장애와 고급 동시성",
+      "href": "24-incidents-concurrency/chapter",
+      "part": 6
+    },
+    {
+      "number": 25,
+      "title": "FastAPI와 LLM API",
+      "href": "25-llm-api/chapter",
+      "part": 7
+    },
+    {
+      "number": 26,
+      "title": "RAG 서비스 백엔드 구축",
+      "href": "26-rag/chapter",
+      "part": 7
+    },
+    {
+      "number": 27,
+      "title": "AI Agent 서버 구축",
+      "href": "27-ai-agents/chapter",
+      "part": 7
+    },
+    {
+      "number": 28,
+      "title": "AI 서비스 성능과 확장성",
+      "href": "28-ai-scalability/chapter",
+      "part": 7
+    },
+    {
+      "number": 29,
+      "title": "실전 프로젝트: RAG 기반 AI Agent 플랫폼",
+      "href": "29-capstone/chapter",
+      "part": 7
+    },
+    {
+      "number": 30,
+      "title": "실전 아키텍처 설계와 기술 면접",
+      "href": "30-architecture-interview/chapter",
+      "part": 7
+    }
+  ]
+}
